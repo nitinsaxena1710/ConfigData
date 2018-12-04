@@ -1,0 +1,2 @@
+# ConfigData
+Creating ConfigServer configuration
